@@ -2,6 +2,10 @@
 .ts
 .php
 
+.sh
+package.json
+*.lock
+
 # Logs
 logs
 *.log
