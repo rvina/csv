@@ -1,0 +1,170 @@
+[
+  {
+    "name": "TheEver.io",
+    "contractAddress": "0x5190b01965b6e3d786706fd4a999978626c19880"
+  },
+  {
+    "name": "Minereum BSC",
+    "contractAddress": "0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf"
+  },
+  {
+    "name": "GoFlux.io",
+    "contractAddress": "0xb16600c510b0f323dee2cb212924d90e58864421"
+  },
+  {
+    "name": "BXHToken",
+    "contractAddress": "0x6d1b7b59e3fab85b7d3a3d86e505dd8e349ea7f3"
+  },
+  {
+    "name": "BestAir.io",
+    "contractAddress": "0xbc6675de91e3da8eac51293ecb87c359019621cf"
+  },
+  {
+    "name": "BTCARE",
+    "contractAddress": "0x4d62dfb0e61ccaaa78fe864826770b103d44388c"
+  },
+  {
+    "name": "TokenOriginal.com",
+    "contractAddress": "0x36ab72472db0d5ca55a451d324b36a3230bf8674"
+  },
+  {
+    "name": "TheVera.io",
+    "contractAddress": "0x0df62d2cd80591798721ddc93001afe868c367ff"
+  },
+  {
+    "name": "tokentwt.com",
+    "contractAddress": "0x575b0339a30d5f29dcbc444ab28f2b194a5e2fa7"
+  },
+  {
+    "name": "VeloChain.io",
+    "contractAddress": "0xc7ef1bff46cd025509cf5e55fa5cd5c14793cbff"
+  },
+  {
+    "name": "YFIONE",
+    "contractAddress": "0xac0c8da4a4748d8d821a0973d00b157aa78c473d"
+  },
+  {
+    "name": "ABFIN.org",
+    "contractAddress": "0xb8a9704d48c3e3817cc17bc6d350b00d7caaecf6"
+  },
+  {
+    "name": "Quick Audits PH",
+    "contractAddress": "0xaa3419cd49528006689f2c06de7deefd3fc987e8"
+  },
+  {
+    "name": "AAExchange.io",
+    "contractAddress": "0x15351604e617d9f645b53ee211d9c95ba88297df"
+  },
+  {
+    "name": "FUGU Finance",
+    "contractAddress": "0x46b605a45483df3d4944a6f06c664ca86382c203"
+  },
+  {
+    "name": "signin",
+    "contractAddress": "0x86440bcfc74d851b406604d5439592615ccaeb97"
+  },
+  {
+    "name": "BullDogToken",
+    "contractAddress": "0x446320c9ffa57030ca977a1f90f8049df4004647"
+  },
+  {
+    "name": "payou.finance",
+    "contractAddress": "0x57dbae4b73455bc0d3e892ae57779160961f0f03"
+  },
+  {
+    "name": "BNBw.io",
+    "contractAddress": "0xc33fc11b55465045b3f1684bde4c0aa5c5f40124"
+  },
+  {
+    "name": "ShibaDrop.io",
+    "contractAddress": "0xab57aef3601cad382aa499a6ae2018a69aad9cf0"
+  },
+  {
+    "name": "BSCTOKEN.IO",
+    "contractAddress": "0x569b2cf0b745ef7fad04e8ae226251814b3395f9"
+  },
+  {
+    "name": "ElonTech ",
+    "contractAddress": "0xc66c8b40e9712708d0b4f27c9775dc934b65f0d9"
+  },
+  {
+    "name": "Zepe.io",
+    "contractAddress": "0x119e2ad8f0c85c6f61afdf0df69693028cdc10be"
+  },
+  {
+    "name": "Swap7.org",
+    "contractAddress": "0x5e48c354a5da2b0a8c203518d0fc7b9c58cc9329"
+  },
+  {
+    "name": "AABEK.net",
+    "contractAddress": "0x68d1569d1a6968f194b4d93f8d0b416c123a599f"
+  },
+  {
+    "name": "aaexchange.io",
+    "contractAddress": "0x7d9c3bd1eb0b0a8921fab9c57e26e05518d87b4d"
+  },
+  {
+    "name": "LinkP.io",
+    "contractAddress": "0xd5e3bf9045cfb1e6ded4b35d1b9c34be16d6eec3"
+  },
+  {
+    "name": "payou.finance",
+    "contractAddress": "0xddf1d0f361ae9444020fcfa905acb4faff420bdd"
+  },
+  {
+    "name": "payou.finance",
+    "contractAddress": "0x1e8f7bfdcf6d95eea81e039234624fa6b78bd389"
+  },
+  {
+    "name": "Tu7.org",
+    "contractAddress": "0x442b656f5a5c3dd09790951810c5a15ea5295b51"
+  },
+  {
+    "name": "XCH5.io",
+    "contractAddress": "0xb3ec4e17c1c0079d977354875ab924c088325306"
+  },
+  {
+    "name": "xch5.net",
+    "contractAddress": "0x4827405d992d4d42f9ff4bb9d13ec9b616a75278"
+  },
+  {
+    "name": "Zepe.io",
+    "contractAddress": "0xb0557906c617f0048a700758606f64b33d0c41a6"
+  },
+  {
+    "name": "Position Token",
+    "contractAddress": "0x5ca42204cdaa70d5c773946e69de942b85ca6706"
+  },
+  {
+    "name": "Baby Vader Doge",
+    "contractAddress": "0x079606234b911f15f0937105856b35f126d85a7f"
+  },
+  {
+    "name": "ARKR.org",
+    "contractAddress": "0x04645027122c9f152011f128c7085449b27cb6d7"
+  },
+  {
+    "name": "FAIR SQUID",
+    "contractAddress": "0xd85842708252c7752f9e503f90561068433d0044"
+  },
+  {
+    "name": "FF18.io",
+    "contractAddress": "0x491b25000d386cd31307580171a510d32d7e64ee"
+  },
+  {
+    "name": "AGMC.io",
+    "contractAddress": "0xef27b9cb67aa93ec3494a60f1ea9380e86175b26"
+  },
+  {
+    "name": "Def8.io",
+    "contractAddress": "0x556798dd55db12562a6950ea8339a273539b0495"
+  },
+  {
+    "name": "h3x.exchange",
+    "contractAddress": "0x892c8ae31c809a2e9dea97e10d09457a685c8e15"
+  },
+  {
+    "name": "GemSwap.net",
+    "contractAddress": "0x0d05a204e27e4815f1f5afdb9d82aa221aa0bdfa"
+  }
+]
